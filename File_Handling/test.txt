@@ -1,0 +1,2 @@
+"c programming has string function"
+"Having arrays"

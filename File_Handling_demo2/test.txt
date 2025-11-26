@@ -1,0 +1,2 @@
+"pointer is a variables that stores the address of another variable"
+"p is a pointer variables "
